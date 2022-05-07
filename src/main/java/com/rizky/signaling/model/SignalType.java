@@ -7,7 +7,6 @@ public enum SignalType {
 	Offer,
 	Answer,
 	Ice,
-	Logout,
 	NewMember,
 	
 }
